@@ -1,6 +1,6 @@
 # projetoBarbearia
 
-No nosso projeto iremos criar um site voltado para barbearia no geral.
+No nosso projeto iremos criar um site voltado para serviços de barbearia no geral.
 
 
 Integrantes da equipe:
